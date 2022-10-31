@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fff7f0;
+}
+.cont-1 {
+  background-color: #755cde;
+}
+.cont-2 {
+  background-color: #f6a560;
+}
+.cont-3 {
+  background-color: #f39e9e;
+}
+.cont-4 {
+  background-color: #755cde;
+}
+.cont-4 {
+  background-color: #eb7565;
+}
+.cont-5 {
+  background-color: #61c4b7;
+}
+.cont-6 {
+  background-color: #552049;
+}
+.btn {
+  background-color: black;
+  color: white;
+}
+.btn-two {
+  background-color: #eb7565;
+  color: white;
+  display: flex;
+  margin: auto;
+}
+.div {
+  background-color: black;
+  color: white;
+}
+
+
+
