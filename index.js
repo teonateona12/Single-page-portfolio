@@ -46,7 +46,7 @@ const leftFunction = () => {
     right = 5;
   }
   if (left == 0) {
-    right = 5;
+    right = 1;
     left = 5;
   }
   if (num == 0) {
